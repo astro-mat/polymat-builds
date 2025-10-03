@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Workbench Project"
+title: "Workbench Build"
 date: 2025-10-03
-excerpt: "I built a sturdy oak workbench for my studio."
 ---
 
-Step-by-step notes, materials, and progress updates.
+Here’s a write-up of my latest carpentry project: building a sturdy workbench.  
+I’ll include photos, materials, and steps along the way.
+
