@@ -3,9 +3,8 @@ description: "Carpentry, DIY, and other physical projects by Mat Warren"
 baseurl: "/polymat-builds"   # repo name
 url: "https://astro-mat.github.io"
 
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-  - jekyll-remote-theme
+theme: minima
 
 # Optional, for clean URLs
 permalink: /:title/
+
