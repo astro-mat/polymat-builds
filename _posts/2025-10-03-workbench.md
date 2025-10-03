@@ -2,18 +2,24 @@
 layout: post
 title: "Workbench Project"
 date: 2025-10-03
-excerpt: "I built a sturdy oak workbench for my studio, perfect for woodworking and electronics projects."
+excerpt: "I built a sturdy oak workbench for my studio."
 ---
 
-## Overview
+## My Oak Workbench
 
-This workbench is made from oak, with integrated storage and a solid top for heavy work.  
-It took me about two weeks to complete.
+I designed and built a solid oak workbench for my studio.  
+It has a large surface, storage underneath, and is perfect for woodworking projects.
 
-### Features
+### Materials
 
-- Solid oak construction
-- Integrated tool storage
-- Custom height for comfort
-- Modular add-ons for electronics work
+- Oak wood planks
+- Screws and nails
+- Wood glue
+- Varnish
 
+### Process
+
+1. Measure and cut the planks
+2. Assemble the frame
+3. Attach the surface
+4. Sand and varnish
