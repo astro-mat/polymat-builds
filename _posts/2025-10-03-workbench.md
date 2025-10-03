@@ -3,7 +3,7 @@ layout: post
 title: "Workbench Project"
 date: 2025-10-03
 excerpt: "I built a sturdy oak workbench for my studio."
-image: /assets/images/workbench.jpg
+image: /assets/images/workbench/workbench.jpg
 ---
 
 ## My Oak Workbench
