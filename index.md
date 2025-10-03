@@ -3,19 +3,18 @@ layout: home
 title: "My Builds"
 ---
 
-<div class="welcome">
-  <h1>Welcome to My Builds</h1>
-  <p>Here I document my carpentry, DIY, and physical projects.  
-     Each project has its own page with photos, notes, and details.</p>
-</div>
+# Welcome to Polymat Builds
 
-<hr>
+Here you can explore my carpentry, DIY, and other physical projects.  
+Each project has its own post with photos, notes, and progress updates.
 
-<h2>Recent Builds</h2>
+---
+
+## Recent Projects
 
 {% for post in site.posts %}
 <div class="post-preview">
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   <p>{{ post.excerpt }}</p>
 </div>
 {% endfor %}
