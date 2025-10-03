@@ -1,3 +1,6 @@
+baseurl: "/skills-github-pages"  # replace REPO-NAME with your repository
+url: "https://astro-mat.github.io/skills-github-pages"  # your GitHub Pages URL
 theme: minima
 permalink: /:title/
+
 
