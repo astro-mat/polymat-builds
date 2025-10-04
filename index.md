@@ -1,15 +1,18 @@
 ---
-layout: default
-title: "Home"
+layout: home
+title: "Polymat Builds"
 ---
 
-# Welcome to Polymat Builds
+# Polymat Builds
 
-Here you can explore my carpentry, DIY, and other physical projects.  
-Each project has its own post with photos, notes, and progress updates.
+Welcome! Here I share my carpentry, DIY, and physical projects.  
+Each project has its own post with photos and progress notes.
 
-## Recent Projects
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{% endfor %}
+<div class="posts-list">
+  {% for post in site.posts %}
+    <div class="post-card">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+    </div>
+  {% endfor %}
+</div>
