@@ -1,0 +1,5 @@
+{% if page.featured_image %}
+<div class="featured-image">
+  <img src="{{ '/assets/' | append: page.featured_image | relative_url }}" />
+</div>
+{% endif %}
