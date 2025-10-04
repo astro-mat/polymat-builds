@@ -1,7 +1,7 @@
 ---
 layout: home
 list-title: Read my latest posts
-title: ""
+title: "Polymat Builds"
 ---
  Welcome! Here I share my carpentry, DIY, and physical projects.  
 Each project has its own post with photos and progress notes.
