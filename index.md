@@ -2,9 +2,6 @@
 layout: home
 title: "Polymat Builds"
 ---
-
-# Polymat Builds
-
 Welcome! Here I share my carpentry, DIY, and physical projects.  
 Each project has its own post with photos and progress notes.
 
