@@ -16,3 +16,4 @@ Each project has its own post with photos and progress notes.
     </div>
   {% endfor %}
 </div>
+
